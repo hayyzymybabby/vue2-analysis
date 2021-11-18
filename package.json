@@ -1,0 +1,23 @@
+{
+  "name": "vue2-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayyzymybabby/vue2-analysis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hayyzymybabby/vue2-analysis/issues"
+  },
+  "homepage": "https://github.com/hayyzymybabby/vue2-analysis#readme",
+  "dependencies": {
+    "flow-bin": "^0.164.0"
+  }
+}
